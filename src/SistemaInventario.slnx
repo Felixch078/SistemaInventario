@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SistemaInventario.AccesoDatos/SistemaInventario.AccesoDatos.csproj" />
+  <Project Path="SistemaInventario.Entidades/SistemaInventario.Entidades.csproj" />
+  <Project Path="SistemaInventario.LogicaNegocio/SistemaInventario.LogicaNegocio.csproj" />
+  <Project Path="SistemaInventario/SistemaInventario.Presentacion.csproj" />
+</Solution>
