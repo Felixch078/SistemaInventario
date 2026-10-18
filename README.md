@@ -6,7 +6,7 @@ Aplicación de escritorio desarrollada en Windows Forms para la gestión de Cate
 - SQL Server 
 - Paquete NuGet: `Microsoft.Data.SqlClient`.
 
-## 🚀 Instrucciones de Instalación
+## Instrucciones de Instalación
 
 1. **Clonar el repositorio:**
    Descarga o clona este repositorio en tu computadora.
@@ -22,14 +22,14 @@ Aplicación de escritorio desarrollada en Windows Forms para la gestión de Cate
    - Establece el proyecto `SistemaInventario.Presentacion` como proyecto de inicio.
    - Presiona `F5` o haz clic en "Iniciar" para ejecutar la aplicación.
 
-## 🏗️ Arquitectura y Patrones
+## Arquitectura y Patrones
 El sistema está dividido en 4 proyectos:
 - **Entidades:** Clases del dominio (`Categoria`, `Suplidor`, `Producto`).
 - **AccesoDatos:** Repositorios ADO.NET y el patrón **Singleton** para la conexión (`ConexionDb`).
 - **LogicaNegocio:** Servicios, validaciones y las 5 consultas LINQ. 
 - **Presentacion:** Formularios de Windows Forms. 
 
-## 📸 Capturas de Pantalla
+## Capturas de Pantalla
 
 **1. Menú Principal**
 <img width="959" height="506" alt="Captura de pantalla 2026-10-18 193036" src="https://github.com/user-attachments/assets/4100bade-4cbb-478e-8182-d1755a045a5c" />
