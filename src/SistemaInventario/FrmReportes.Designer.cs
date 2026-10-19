@@ -50,7 +50,6 @@
             // cmbReporte
             // 
             cmbReporte.FormattingEnabled = true;
-            cmbReporte.Items.AddRange(new object[] { "Productos agrupados por categoria", "Top 5 suplidores con mas productos", "Prodcutos por categoria y rago de precio", "Busqueda de productos por nombre", "Busqueda de precio por categoria" });
             cmbReporte.Location = new Point(138, 37);
             cmbReporte.Name = "cmbReporte";
             cmbReporte.Size = new Size(412, 40);
